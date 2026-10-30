@@ -1,0 +1,1 @@
+document.getElementById('contactForm').addEventListener('submit',function(e){e.preventDefault();document.getElementById('formNote').textContent='این نسخه نمایشی است؛ برای دریافت پیام باید فرم به یک سرویس امن متصل شود.';});
